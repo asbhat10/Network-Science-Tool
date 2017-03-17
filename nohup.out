@@ -1,0 +1,1335 @@
+[01/Dec/2016 00:21:43] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:21:44] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:21:57] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:21:57] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:21:59] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:22:00] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:22:12] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:22:12] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:22:26] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:22:26] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:23:12] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:23:13] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:24:53] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:24:54] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:26:28] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:26:28] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:27:51] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:27:51] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:28:01] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:28:02] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:28:28] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:28:29] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:28:59] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:29:00] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:29:08] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:29:09] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:32:00] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:32:00] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 00:32:10] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 00:32:10] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 01:14:15] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 01:14:16] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:00:52] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 04:00:53] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:01:01] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 04:01:02] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:01:05] "POST /savedataset/ HTTP/1.1" 200 29
+[01/Dec/2016 04:01:07] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:01:08] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:01:11] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 04:01:18] "GET /genericfault/?radius=100000&network=TestNetwork HTTP/1.1" 200 159
+[01/Dec/2016 04:01:19] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:01:20] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:02:05] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:02:06] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:02:08] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2016 - 00:31:59
+Django version 1.10.2, using settings 'nsrpt.settings'
+Starting development server at http://10.218.105.80:8000/
+Quit the server with CONTROL-C.
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+100000
+TestNetwork
+{1161027164655904: <Point object at 0xabc7e7a0>}
+{1161027164655904: <Point object at 0xabc7e7a0>, 116102716470207: <Point object at 0xabc8d830>}
+{1161027164655904: <Point object at 0xabc7e7a0>, 11610271647680: <Point object at 0xabc8d878>, 116102716470207: <Point object at 0xabc8d830>}
+{1161027164715618: <Point object at 0xabc8d680>, 1161027164655904: <Point object at 0xabc7e7a0>, 11610271647680: <Point object at 0xabc8d878>, 116102716470207: <Point object at 0xabc8d830>}
+{1161027164715618: <Point object at 0xabc8d680>, 116102716472780: <Point object at 0xabc8d710>, 1161027164655904: <Point object at 0xabc7e7a0>, 11610271647680: <Point object at 0xabc8d878>, 116102716470207: <Point object at 0xabc8d830>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc8d830>, <Point object at 0xabc8d878>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xabc8d710>, <Point object at 0xabc8d680>], (39.5676, -100.6587): [<Point object at 0xabc8d878>, <Point object at 0xabc8d680>], (30.5676, -80.6587): [<Point object at 0xabc8d710>]}
+2000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc8d2d8>, <Point object at 0xabc8d368>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc8d518>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc8d050>, <Point object at 0xabc8d5f0>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc8d128>, <Point object at 0xabc8d170>]}
+[2, 3, 3, 3, 3, 1, 3, 3, 3, 1, 4, 3, 3, 3, 3, 3, 4, 4, 3, 3, 3]
+4
+1
+2
+21
+[(38.8688308816832, -99.76038471576473), (38.8688308816832, -97.9171911605495), (38.8688308816832, -91.05533883930124)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+TestNetwork
+{1161027164655904: <Point object at 0xac4cc098>}
+{1161027164655904: <Point object at 0xac4cc098>, 116102716470207: <Point object at 0xabc7ecf8>}
+{1161027164655904: <Point object at 0xac4cc098>, 11610271647680: <Point object at 0xabc7ecb0>, 116102716470207: <Point object at 0xabc7ecf8>}
+{1161027164715618: <Point object at 0xabc7ed40>, 1161027164655904: <Point object at 0xac4cc098>, 11610271647680: <Point object at 0xabc7ecb0>, 116102716470207: <Point object at 0xabc7ecf8>}[01/Dec/2016 04:02:13] "GET /genericfault/?radius=400000&network=TestNetwork HTTP/1.1" 200 122
+[01/Dec/2016 04:03:24] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:03:25] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:03:30] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 04:03:36] "GET /genericfault/?radius=500000&network=TestNetwork2 HTTP/1.1" 200 81
+[01/Dec/2016 04:04:19] "GET /genericfault/?radius=700000&network=TestNetwork2 HTTP/1.1" 200 124
+[01/Dec/2016 04:04:29] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:04:29] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:04:30] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+
+{1161027164715618: <Point object at 0xabc7ed40>, 116102716472780: <Point object at 0xacfb7b48>, 1161027164655904: <Point object at 0xac4cc098>, 11610271647680: <Point object at 0xabc7ecb0>, 116102716470207: <Point object at 0xabc7ecf8>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc7ecf8>, <Point object at 0xabc7ecb0>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xacfb7b48>, <Point object at 0xabc7ed40>], (39.5676, -100.6587): [<Point object at 0xabc7ecb0>, <Point object at 0xabc7ed40>], (30.5676, -80.6587): [<Point object at 0xacfb7b48>]}
+100000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc8dfc8>, <Point object at 0xabc8df38>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc8d248>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc7efc8>, <Point object at 0xabc8d320>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc8d290>, <Point object at 0xabc8de18>]}
+[1, 3, 3, 2, 3, 3, 3, 5, 4, 5, 2, 3, 3, 2, 1, 3, 3, 3, 4, 3, 3, 1, 3, 3, 3, 3]
+5
+1
+1
+26
+[(36.73071422836519, -97.06543886340616), (36.73071422836519, -92.24525535667003)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc7ef80>}
+{1161028212245956: <Point object at 0xabc7ef80>, 1161028212252898: <Point object at 0xabc8d710>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xabc7ef80>, 1161028212252898: <Point object at 0xabc8d710>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xabc7ef80>, 1161028212314156: <Point object at 0xabc8dd88>, 1161028212252898: <Point object at 0xabc8d710>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xabc7ef80>, 1161028212332580: <Point object at 0xabc8d7e8>, 1161028212314156: <Point object at 0xabc8dd88>, 1161028212252898: <Point object at 0xabc8d710>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc8d7e8>], (34.5676, -100.6587): [<Point object at 0xabc8d710>, <Point object at 0xabc8dd88>], (34.5676, -110.6587): [<Point object at 0xabc8d560>, <Point object at 0xabc8d7e8>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc8dd88>]}
+400000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc8d680>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc30050>, <Point object at 0xabc300e0>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc30290>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc30170>, <Point object at 0xabc30200>]}
+[4, 4, 2, 3, 5, 3, 2, 2, 3, 3, 3, 4, 3, 4]
+5
+1
+1
+14
+[(31.635551224463875, -107.435736027663)]
+700000
+TestNetwork2
+{1161028212245956: <Point object at 0xac4cc098>}
+{1161028212245956: <Point object at 0xac4cc098>, 1161028212252898: <Point object at 0xabc8d998>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212252898: <Point object at 0xabc8d998>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212314156: <Point object at 0xabc8d710>, 1161028212252898: <Point object at 0xabc8d998>}
+{116102821234328: <Point object at 0xabc8d560>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212332580: <Point object at 0xabc8d050>, 1161028212314156: <Point object at 0xabc8d710>, 1161028212252898: <Point object at 0xabc8d998>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc8d050>], (34.5676, -100.6587): [<Point object at 0xabc8d998>, <Point object at 0xabc8d710>], (34.5676, -110.6587): [<Point object at 0xabc8d560>, <Point object at 0xabc8d050>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc8d710>]}
+500000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc8d878>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc8dc20>, <Point object at 0xabc8d200>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc8d6c8>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc8df38>, <Point object at 0xabc8d368>]}
+[3, 3, 2, 3, 2, 2, 5, 2, 3, 3, 4, 3, 2, 4, 3, 2, 3, 5, 4, 4]
+5
+1
+1
+20
+[(30.46800541837796, -106.06182267511251), (30.54223586521796, -106.07996412802079)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+600000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc7ecf8>}
+{1161028212245956: <Point object at 0xabc7ecf8>, 1161028212252898: <Point object at 0xabc8db00>}[01/Dec/2016 04:04:43] "GET /genericfault/?radius=600000&network=TestNetwork2 HTTP/1.1" 200 82
+[01/Dec/2016 04:04:57] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 04:05:00] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:05:00] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:05:03] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 04:05:09] "GET /genericfault/?radius=700000&network=TestNetwork2 HTTP/1.1" 200 124
+[01/Dec/2016 04:05:35] "GET /genericfault/?radius=600000&network=TestNetwork2 HTTP/1.1" 200 82
+[01/Dec/2016 04:05:42] "GET /faultanalyzer HTTP/1.1" 200 17542
+
+{116102821234328: <Point object at 0xabc8dc68>, 1161028212245956: <Point object at 0xabc7ecf8>, 1161028212252898: <Point object at 0xabc8db00>}
+{116102821234328: <Point object at 0xabc8dc68>, 1161028212245956: <Point object at 0xabc7ecf8>, 1161028212314156: <Point object at 0xabc8dd88>, 1161028212252898: <Point object at 0xabc8db00>}
+{116102821234328: <Point object at 0xabc8dc68>, 1161028212245956: <Point object at 0xabc7ecf8>, 1161028212332580: <Point object at 0xabc8dab8>, 1161028212314156: <Point object at 0xabc8dd88>, 1161028212252898: <Point object at 0xabc8db00>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc8dab8>], (34.5676, -100.6587): [<Point object at 0xabc8db00>, <Point object at 0xabc8dd88>], (34.5676, -110.6587): [<Point object at 0xabc8dc68>, <Point object at 0xabc8dab8>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc8dd88>]}
+700000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc8d290>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc8dcf8>, <Point object at 0xabc27ea8>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc27098>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc27b00>, <Point object at 0xabc27710>]}
+[2, 3, 2, 3, 3, 3, 2, 3, 4, 3, 2, 4, 2, 3, 4, 5, 4]
+5
+1
+1
+17
+[(29.99094234223018, -107.44393176942842)]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+700000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc8d7e8>}
+{1161028212245956: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc8dcb0>}
+{116102821234328: <Point object at 0xabc8dd40>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc8dcb0>}
+{116102821234328: <Point object at 0xabc8dd40>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212314156: <Point object at 0xabc8d998>, 1161028212252898: <Point object at 0xabc8dcb0>}
+{116102821234328: <Point object at 0xabc8dd40>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212332580: <Point object at 0xabc8d878>, 1161028212314156: <Point object at 0xabc8d998>, 1161028212252898: <Point object at 0xabc8dcb0>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc8d878>], (34.5676, -100.6587): [<Point object at 0xabc8dcb0>, <Point object at 0xabc8d998>], (34.5676, -110.6587): [<Point object at 0xabc8dd40>, <Point object at 0xabc8d878>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc8d998>]}
+600000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc8df38>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc8d6c8>, <Point object at 0xabc8d1b8>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc8d638>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc8d3b0>, <Point object at 0xabc8d200>]}
+[3, 3, 2, 3, 2, 2, 5, 2, 3, 3, 4, 3, 2, 4, 3, 2, 3, 5, 4, 4]
+5
+1
+1
+20
+[(30.46800541837796, -106.06182267511251), (30.54223586521796, -106.07996412802079)]
+600000
+TestNetwork2
+{1161028212245956: <Point object at 0xac4cc098>}
+{1161028212245956: <Point object at 0xac4cc098>, 1161028212252898: <Point object at 0xab2c7ab8>}
+{116102821234328: <Point object at 0xab2c73b0>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212252898: <Point object at 0xab2c7ab8>}
+{116102821234328: <Point object at 0xab2c73b0>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212314156: <Point object at 0xab2c7908>, 1161028212252898: <Point object at 0xab2c7ab8>}
+{116102821234328: <Point object at 0xab2c73b0>, 1161028212245956: <Point object at 0xac4cc098>, 1161028212332580: <Point object at 0xab2c7170>, 1161028212314156: <Point object at 0xab2c7908>, 1161028212252898: <Point object at 0xab2c7ab8>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xab2c7170>], (34.5676, -100.6587): [<Point object at 0xab2c7ab8>, <Point object at 0xab2c7908>], (34.5676, -110.6587): [<Point object at 0xab2c73b0>, <Point object at 0xab2c7170>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xab2c7908>]}
+700000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xab2c7320>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab2c76c8>, <Point object at 0xab2c7950>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xab2c7878>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xab2c7c68>, <Point object at 0xab2c77e8>]}
+[2, 3, 2, 3, 3, 3, 2, 3, 4, 3, 2, 4, 2, 3, 4, 5, 4]
+5
+1
+1
+17
+[(29.99094234223018, -107.44393176942842)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}][01/Dec/2016 04:05:43] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:05:46] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 04:05:50] "GET /genericfault/?radius=600000&network=TestNetwork2 HTTP/1.1" 200 82
+[01/Dec/2016 04:06:21] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:06:21] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:06:29] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 04:06:31] "GET /genericfault/?radius=800000&network=TestNetwork2 HTTP/1.1" 200 82
+[01/Dec/2016 04:07:25] "GET /genericfault/?radius=700000&network=TestNetwork2 HTTP/1.1" 200 124
+[01/Dec/2016 04:07:31] "GET /faultanalyzer HTTP/1.1" 200 17542
+
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+600000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc8d7e8>}
+{1161028212245956: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc7ef38>}
+{116102821234328: <Point object at 0xabc7eef0>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc7ef38>}
+{116102821234328: <Point object at 0xabc7eef0>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212314156: <Point object at 0xabc7ec20>, 1161028212252898: <Point object at 0xabc7ef38>}
+{116102821234328: <Point object at 0xabc7eef0>, 1161028212245956: <Point object at 0xabc8d7e8>, 1161028212332580: <Point object at 0xabc7edd0>, 1161028212314156: <Point object at 0xabc7ec20>, 1161028212252898: <Point object at 0xabc7ef38>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc7edd0>], (34.5676, -100.6587): [<Point object at 0xabc7ef38>, <Point object at 0xabc7ec20>], (34.5676, -110.6587): [<Point object at 0xabc7eef0>, <Point object at 0xabc7edd0>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc7ec20>]}
+600000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc7ed40>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab2c7e60>, <Point object at 0xab2c7b48>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xab2c72d8>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xab2c7710>, <Point object at 0xab2c7fc8>]}
+[2, 3, 2, 3, 3, 3, 2, 3, 4, 3, 2, 4, 2, 3, 4, 5, 4]
+5
+1
+1
+17
+[(29.99094234223018, -107.44393176942842)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+800000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc8d098>}
+{1161028212245956: <Point object at 0xabc8d098>, 1161028212252898: <Point object at 0xabc7eef0>}
+{116102821234328: <Point object at 0xabc7ee18>, 1161028212245956: <Point object at 0xabc8d098>, 1161028212252898: <Point object at 0xabc7eef0>}
+{116102821234328: <Point object at 0xabc7ee18>, 1161028212245956: <Point object at 0xabc8d098>, 1161028212314156: <Point object at 0xabc7e7a0>, 1161028212252898: <Point object at 0xabc7eef0>}
+{116102821234328: <Point object at 0xabc7ee18>, 1161028212245956: <Point object at 0xabc8d098>, 1161028212332580: <Point object at 0xabc7ecf8>, 1161028212314156: <Point object at 0xabc7e7a0>, 1161028212252898: <Point object at 0xabc7eef0>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc7ecf8>], (34.5676, -100.6587): [<Point object at 0xabc7eef0>, <Point object at 0xabc7e7a0>], (34.5676, -110.6587): [<Point object at 0xabc7ee18>, <Point object at 0xabc7ecf8>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc7e7a0>]}
+600000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xab2cbbd8>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab2cbc20>, <Point object at 0xab2cbcf8>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xab2cb830>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xab2cbf38>, <Point object at 0xab2cbc68>]}
+[2, 2, 3, 3, 3, 3, 2, 4, 3, 3, 3, 2, 2, 4, 5, 4, 3, 4, 2, 2]
+5
+1
+1
+20
+[(29.361214151556975, -106.7111668563057)]
+700000
+TestNetwork2
+{1161028212245956: <Point object at 0xac4cc0e0>}
+{1161028212245956: <Point object at 0xac4cc0e0>, 1161028212252898: <Point object at 0xabc8dfc8>}
+{116102821234328: <Point object at 0xabc8d0e0>, 1161028212245956: <Point object at 0xac4cc0e0>, 1161028212252898: <Point object at 0xabc8dfc8>}
+{116102821234328: <Point object at 0xabc8d0e0>, 1161028212245956: <Point object at 0xac4cc0e0>, 1161028212314156: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc8dfc8>}
+{116102821234328: <Point object at 0xabc8d0e0>, 1161028212245956: <Point object at 0xac4cc0e0>, 1161028212332580: <Point object at 0xabc8d320>, 1161028212314156: <Point object at 0xabc8d7e8>, 1161028212252898: <Point object at 0xabc8dfc8>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc8d320>], (34.5676, -100.6587): [<Point object at 0xabc8dfc8>, <Point object at 0xabc8d7e8>], (34.5676, -110.6587): [<Point object at 0xabc8d0e0>, <Point object at 0xabc8d320>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc8d7e8>]}
+800000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc8d8c0>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc8d6c8>, <Point object at 0xabc8d4d0>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc8d9e0>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc8d2d8>, <Point object at 0xabc8de60>]}
+[3, 3, 2, 3, 2, 2, 5, 2, 3, 3, 4, 3, 2, 4, 3, 2, 3, 5, 4, 4]
+5
+1
+1
+20
+[(30.46800541837796, -106.06182267511251), (30.54223586521796, -106.07996412802079)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}][01/Dec/2016 04:07:31] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:07:35] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 04:07:40] "GET /genericfault/?radius=600000&network=TestNetwork2 HTTP/1.1" 200 82
+
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+600000
+TestNetwork2
+{1161028212245956: <Point object at 0xab2cb638>}
+{1161028212245956: <Point object at 0xab2cb638>, 1161028212252898: <Point object at 0xabc7eea8>}
+{116102821234328: <Point object at 0xabc7edd0>, 1161028212245956: <Point object at 0xab2cb638>, 1161028212252898: <Point object at 0xabc7eea8>}
+{116102821234328: <Point object at 0xabc7edd0>, 1161028212245956: <Point object at 0xab2cb638>, 1161028212314156: <Point object at 0xabc7ef80>, 1161028212252898: <Point object at 0xabc7eea8>}
+{116102821234328: <Point object at 0xabc7edd0>, 1161028212245956: <Point object at 0xab2cb638>, 1161028212332580: <Point object at 0xabc7eb90>, 1161028212314156: <Point object at 0xabc7ef80>, 1161028212252898: <Point object at 0xabc7eea8>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xabc7eb90>], (34.5676, -100.6587): [<Point object at 0xabc7eea8>, <Point object at 0xabc7ef80>], (34.5676, -110.6587): [<Point object at 0xabc7edd0>, <Point object at 0xabc7eb90>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xabc7ef80>]}
+700000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xabc7ec20>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc7ed88>, <Point object at 0xabc7ef38>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xabc8d518>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xabc7ee60>, <Point object at 0xabc8d1b8>]}
+[2, 3, 2, 3, 3, 3, 2, 3, 4, 3, 2, 4, 2, 3, 4, 5, 4]
+5
+1
+1
+17
+[(29.99094234223018, -107.44393176942842)]
+[01/Dec/2016 04:08:03] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:08:03] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:08:09] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:08:09] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:08:13] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 04:08:19] "GET /genericfault/?radius=400000&network=TestNetwork HTTP/1.1" 200 163
+[01/Dec/2016 04:09:03] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 04:09:03] "GET /fetchgraphname/ HTTP/1.1" 200 389
+[01/Dec/2016 04:31:30] "POST /savedataset/ HTTP/1.1" 200 37
+[01/Dec/2016 04:35:05] "POST /savedataset/ HTTP/1.1" 200 36
+[01/Dec/2016 04:35:42] "POST /savedataset/ HTTP/1.1" 200 37
+[01/Dec/2016 04:36:49] "POST /savedataset/ HTTP/1.1" 200 37
+[01/Dec/2016 04:37:14] "POST /savenetwork/?name=Test%20Network%203 HTTP/1.1" 200 720
+[01/Dec/2016 04:37:20] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:37:20] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:37:26] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:37:31] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 04:37:52] "GET /faultanalyzer HTTP/1.1" 200 17542
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2016 - 04:07:52
+Django version 1.10.2, using settings 'nsrpt.settings'
+Starting development server at http://10.218.105.80:8000/
+Quit the server with CONTROL-C.
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+TestNetwork
+{1161027164655904: <Point object at 0xac4b41b8>}
+{1161027164655904: <Point object at 0xac4b41b8>, 116102716470207: <Point object at 0xabc63e60>}
+{1161027164655904: <Point object at 0xac4b41b8>, 11610271647680: <Point object at 0xabc63ea8>, 116102716470207: <Point object at 0xabc63e60>}
+{1161027164715618: <Point object at 0xabc63c68>, 1161027164655904: <Point object at 0xac4b41b8>, 11610271647680: <Point object at 0xabc63ea8>, 116102716470207: <Point object at 0xabc63e60>}
+{1161027164715618: <Point object at 0xabc63c68>, 116102716472780: <Point object at 0xabc63cb0>, 1161027164655904: <Point object at 0xac4b41b8>, 11610271647680: <Point object at 0xabc63ea8>, 116102716470207: <Point object at 0xabc63e60>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc63e60>, <Point object at 0xabc63ea8>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xabc63cb0>, <Point object at 0xabc63c68>], (39.5676, -100.6587): [<Point object at 0xabc63ea8>, <Point object at 0xabc63c68>], (30.5676, -80.6587): [<Point object at 0xabc63cb0>]}
+700000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc72b48>, <Point object at 0xabc72950>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc729e0>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc63d88>, <Point object at 0xabc72758>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc728c0>, <Point object at 0xabc72ab8>]}
+[1, 1, 1, 2, 3, 3, 1, 5, 3, 5, 3, 3, 3, 3, 2, 2, 1, 2, 3, 1, 3, 1, 5, 3, 1, 3, 3, 1, 2, 1, 2, 3, 3, 3, 2, 3, 3, 1]
+5
+1
+1
+38
+[(36.73071422836519, -97.06543886340616), (36.73071422836519, -92.24525535667003), (36.73071422836519, -90.65870000017833)]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}]
+Test Network 3
+4
+[{'connectednodes': ['116103021350748', '1161030213537800', '1161030213645113'], 'latlonx': 95.61249761001099, 'latitude': '41.390', 'longitude': '-108.725', 'latlony': -77.31568355555555, 'uid': '1161030213125958'}, {'connectednodes': ['1161030213537800'], 'latlonx': 98.11270931937099, 'latitude': '38.699', 'longitude': '-99.101', 'latlony': -70.47195022222222, 'uid': '116103021350748'}, {'connectednodes': [], 'latlonx': 93.36279415070011, 'latitude': '43.720 ', 'longitude': '-97.387', 'latlony': -69.25310577777778, 'uid': '1161030213537800'}, {'connectednodes': [], 'latlonx': 100.23334051913619, 'latitude': '36.334', 'longitude': '-104.551', 'latlony': -74.34750577777778, 'uid': '1161030213645113'}]
+41.390
+116103021350748
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72830>}
+{116103021350748: <Point object at 0xabc725a8>, 1161030213125958: <Point object at 0xabc72830>}
+{116103021350748: <Point object at 0xabc725a8>, 1161030213125958: <Point object at 0xabc72830>, 1161030213537800: <Point object at 0xabc72560>}
+{116103021350748: <Point object at 0xabc725a8>, 1161030213125958: <Point object at 0xabc72830>, 1161030213537800: <Point object at 0xabc72560>, 1161030213645113: <Point object at 0xabc72878>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72560>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc725a8>, <Point object at 0xabc72560>, <Point object at 0xabc72878>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc726c8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc725f0>, <Point object at 0xabc72680>, <Point object at 0xab282050>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}][01/Dec/2016 04:37:52] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:37:56] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:38:02] "GET /genericfault/?radius=400000&network=Test%20Network%203 HTTP/1.1" 200 498
+[01/Dec/2016 04:40:03] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:40:06] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:40:11] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:40:18] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+[01/Dec/2016 04:41:15] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:41:15] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:41:19] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72440>}
+{116103021350748: <Point object at 0xabc63cf8>, 1161030213125958: <Point object at 0xabc72440>}
+{116103021350748: <Point object at 0xabc63cf8>, 1161030213125958: <Point object at 0xabc72440>, 1161030213537800: <Point object at 0xabc63878>}
+{116103021350748: <Point object at 0xabc63cf8>, 1161030213125958: <Point object at 0xabc72440>, 1161030213537800: <Point object at 0xabc63878>, 1161030213645113: <Point object at 0xabc63ea8>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc63878>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc63cf8>, <Point object at 0xabc63878>, <Point object at 0xabc63ea8>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc63c68>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc63cb0>, <Point object at 0xab281050>, <Point object at 0xab281098>]}
+[3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3]
+3
+1
+1
+17
+[(46.17786110511483, -98.34947303191888), (39.22804433584866, -102.627518760536), (41.15624673615246, -96.424526968359), (44.36650744743032, -100.86667994333364), (46.166932895326454, -98.34509982380831), (37.99314824491806, -95.62132005676754), (43.944292903633425, -109.6874730317919), (38.730443912928244, -107.76252696823202), (39.747165676322005, -103.05962137398875), (42.839978508635355, -105.70532811951219), (42.30851607689932, -101.59303583863822)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72488>}
+{116103021350748: <Point object at 0xabc726c8>, 1161030213125958: <Point object at 0xabc72488>}
+{116103021350748: <Point object at 0xabc726c8>, 1161030213125958: <Point object at 0xabc72488>, 1161030213537800: <Point object at 0xabc725f0>}
+{116103021350748: <Point object at 0xabc726c8>, 1161030213125958: <Point object at 0xabc72488>, 1161030213537800: <Point object at 0xabc725f0>, 1161030213645113: <Point object at 0xabc72638>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc725f0>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc726c8>, <Point object at 0xabc725f0>, <Point object at 0xabc72638>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab288fc8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab288d40>, <Point object at 0xab288f80>, <Point object at 0xab288dd0>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+300000
+Test Network 3
+{1161030213125958: <Point object at 0xabc725f0>}
+{116103021350748: <Point object at 0xabc72d40>, 1161030213125958: <Point object at 0xabc725f0>}
+{116103021350748: <Point object at 0xabc72d40>, 1161030213125958: <Point object at 0xabc725f0>, 1161030213537800: <Point object at 0xab288e18>}
+{116103021350748: <Point object at 0xabc72d40>, 1161030213125958: <Point object at 0xabc725f0>, 1161030213537800: <Point object at 0xab288e18>, 1161030213645113: <Point object at 0xab288d40>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab288e18>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc72d40>, <Point object at 0xab288e18>, <Point object at 0xab288d40>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab288f80>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab288dd0>, <Point object at 0xab288fc8>, <Point object at 0xab288368>]}[01/Dec/2016 04:41:29] "GET /genericfault/?radius=300000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 04:42:01] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:42:01] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:42:04] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 04:42:09] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:42:10] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:42:10] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:42:14] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:42:19] "GET /genericfault/?radius=400000&network=Test%20Network%203 HTTP/1.1" 200 498
+[01/Dec/2016 04:45:58] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 04:46:01] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:46:01] "GET /fetchgraphname/ HTTP/1.1" 200 586
+
+[3, 3, 2, 3, 2, 3, 3, 2, 3, 3, 3, 3, 3, 4, 2]
+4
+1
+1
+15
+[(41.13071732502533, -99.89973858083772)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+Test Network 3
+{1161030213125958: <Point object at 0xabc727a0>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc727a0>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc727a0>, 1161030213537800: <Point object at 0xabc72320>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc727a0>, 1161030213537800: <Point object at 0xabc72320>, 1161030213645113: <Point object at 0xabc63fc8>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72320>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc72ab8>, <Point object at 0xabc72320>, <Point object at 0xabc63fc8>], (36.334, -104.551): []}
+300000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc63c68>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc63d40>, <Point object at 0xabc63e18>, <Point object at 0xab2e3050>]}
+[3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3]
+3
+1
+1
+17
+[(46.17786110511483, -98.34947303191888), (39.22804433584866, -102.627518760536), (41.15624673615246, -96.424526968359), (44.36650744743032, -100.86667994333364), (46.166932895326454, -98.34509982380831), (37.99314824491806, -95.62132005676754), (43.944292903633425, -109.6874730317919), (38.730443912928244, -107.76252696823202), (39.747165676322005, -103.05962137398875), (42.839978508635355, -105.70532811951219), (42.30851607689932, -101.59303583863822)]
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xabc63f80>}
+{116103021350748: <Point object at 0xabc723b0>, 1161030213125958: <Point object at 0xabc63f80>}
+{116103021350748: <Point object at 0xabc723b0>, 1161030213125958: <Point object at 0xabc63f80>, 1161030213537800: <Point object at 0xabc721b8>}
+{116103021350748: <Point object at 0xabc723b0>, 1161030213125958: <Point object at 0xabc63f80>, 1161030213537800: <Point object at 0xabc721b8>, 1161030213645113: <Point object at 0xabc72c68>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc721b8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc723b0>, <Point object at 0xabc721b8>, <Point object at 0xabc72c68>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc727e8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72dd0>, <Point object at 0xabc72680>, <Point object at 0xabc72950>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}][01/Dec/2016 04:46:06] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:46:11] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 04:47:47] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:47:47] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:47:51] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:48:02] "GET /genericfault/?radius=800000&network=Test%20Network%203 HTTP/1.1" 200 247
+[01/Dec/2016 04:49:50] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:49:50] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:52:16] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:52:21] "GET /genericfault/?radius=400000&network=Test%20Network%203 HTTP/1.1" 200 498
+[01/Dec/2016 04:52:30] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:52:30] "GET /fetchgraphname/ HTTP/1.1" 200 586
+
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xab286e60>}
+{116103021350748: <Point object at 0xabc63fc8>, 1161030213125958: <Point object at 0xab286e60>}
+{116103021350748: <Point object at 0xabc63fc8>, 1161030213125958: <Point object at 0xab286e60>, 1161030213537800: <Point object at 0xabc63ef0>}
+{116103021350748: <Point object at 0xabc63fc8>, 1161030213125958: <Point object at 0xab286e60>, 1161030213537800: <Point object at 0xabc63ef0>, 1161030213645113: <Point object at 0xabc63e60>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc63ef0>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc63fc8>, <Point object at 0xabc63ef0>, <Point object at 0xabc63e60>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc725f0>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72b00>, <Point object at 0xabc720e0>, <Point object at 0xabc72200>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+800000
+Test Network 3
+{1161030213125958: <Point object at 0xab2868c0>}
+{116103021350748: <Point object at 0xab286cb0>, 1161030213125958: <Point object at 0xab2868c0>}
+{116103021350748: <Point object at 0xab286cb0>, 1161030213125958: <Point object at 0xab2868c0>, 1161030213537800: <Point object at 0xabc72dd0>}
+{116103021350748: <Point object at 0xab286cb0>, 1161030213125958: <Point object at 0xab2868c0>, 1161030213537800: <Point object at 0xabc72dd0>, 1161030213645113: <Point object at 0xabc72b00>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72dd0>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab286cb0>, <Point object at 0xabc72dd0>, <Point object at 0xabc72b00>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc720e0>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72200>, <Point object at 0xabc725f0>, <Point object at 0xabc729e0>]}
+[2, 2, 1, 2, 3, 3, 3, 2, 1, 1, 1, 2, 3, 2, 2, 3]
+3
+1
+1
+16
+[(44.01749797350218, -97.50132485384883), (42.405685600143066, -90.42764011285125), (46.27447934988741, -106.26753234048032), (44.25647744911436, -102.68565623901245), (37.2859942555963, -92.16891428881713)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+Test Network 3
+{1161030213125958: <Point object at 0xab2863f8>}
+{116103021350748: <Point object at 0xab286e60>, 1161030213125958: <Point object at 0xab2863f8>}
+{116103021350748: <Point object at 0xab286e60>, 1161030213125958: <Point object at 0xab2863f8>, 1161030213537800: <Point object at 0xab2867e8>}
+{116103021350748: <Point object at 0xab286e60>, 1161030213125958: <Point object at 0xab2863f8>, 1161030213537800: <Point object at 0xab2867e8>, 1161030213645113: <Point object at 0xab286710>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab2867e8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab286e60>, <Point object at 0xab2867e8>, <Point object at 0xab286710>], (36.334, -104.551): []}
+800000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286248>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72b48>, <Point object at 0xabc72200>, <Point object at 0xabc725f0>]}
+[3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3]
+3
+1
+1
+17
+[(46.17786110511483, -98.34947303191888), (39.22804433584866, -102.627518760536), (41.15624673615246, -96.424526968359), (44.36650744743032, -100.86667994333364), (46.166932895326454, -98.34509982380831), (37.99314824491806, -95.62132005676754), (43.944292903633425, -109.6874730317919), (38.730443912928244, -107.76252696823202), (39.747165676322005, -103.05962137398875), (42.839978508635355, -105.70532811951219), (42.30851607689932, -101.59303583863822)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+200000
+TestNetwork
+{1161027164655904: <Point object at 0xab2861b8>}
+{1161027164655904: <Point object at 0xab2861b8>, 116102716470207: <Point object at 0xab286b00>}
+{1161027164655904: <Point object at 0xab2861b8>, 11610271647680: <Point object at 0xab286518>, 116102716470207: <Point object at 0xab286b00>}[01/Dec/2016 04:52:34] "GET /genericfault/?radius=200000&network=TestNetwork HTTP/1.1" 200 288
+[01/Dec/2016 04:52:40] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:52:41] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:52:43] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 04:52:47] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 04:52:56] "GET /genericfault/?radius=400000&network=Test%20Network%203 HTTP/1.1" 200 498
+[01/Dec/2016 04:53:02] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 04:53:03] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 04:53:05] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+
+{1161027164715618: <Point object at 0xabc63f80>, 1161027164655904: <Point object at 0xab2861b8>, 11610271647680: <Point object at 0xab286518>, 116102716470207: <Point object at 0xab286b00>}
+{1161027164715618: <Point object at 0xabc63f80>, 116102716472780: <Point object at 0xab286f80>, 1161027164655904: <Point object at 0xab2861b8>, 11610271647680: <Point object at 0xab286518>, 116102716470207: <Point object at 0xab286b00>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xab286b00>, <Point object at 0xab286518>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xab286f80>, <Point object at 0xabc63f80>], (39.5676, -100.6587): [<Point object at 0xab286518>, <Point object at 0xabc63f80>], (30.5676, -80.6587): [<Point object at 0xab286f80>]}
+400000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xab2863b0>, <Point object at 0xab286908>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xab286170>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab286a28>, <Point object at 0xab286290>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xab286488>, <Point object at 0xab2864d0>]}
+[1, 3, 3, 1, 3, 1, 1, 3, 1, 4, 3, 1, 1, 3, 2, 1, 1, 4, 3, 4, 1, 2, 4, 3, 2, 3, 4, 1, 3, 1, 3, 4, 3]
+4
+1
+2
+33
+[(38.163067864629234, -98.8620694316452), (39.56759999983317, -98.8620694316452), (32.08043760380034, -80.30964010069114), (38.163067864629234, -91.45197767842419), (38.163067864629234, -90.65870000017833), (38.163067864629234, -96.92850071365925)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xab286a28>}
+{116103021350748: <Point object at 0xab2867e8>, 1161030213125958: <Point object at 0xab286a28>}
+{116103021350748: <Point object at 0xab2867e8>, 1161030213125958: <Point object at 0xab286a28>, 1161030213537800: <Point object at 0xab2863f8>}
+{116103021350748: <Point object at 0xab2867e8>, 1161030213125958: <Point object at 0xab286a28>, 1161030213537800: <Point object at 0xab2863f8>, 1161030213645113: <Point object at 0xab286e60>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab2863f8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab2867e8>, <Point object at 0xab2863f8>, <Point object at 0xab286e60>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc72ea8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72ef0>, <Point object at 0xabc72cf8>, <Point object at 0xabc72290>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+400000
+Test Network 3
+{1161030213125958: <Point object at 0xab286710>}
+{116103021350748: <Point object at 0xab286098>, 1161030213125958: <Point object at 0xab286710>}
+{116103021350748: <Point object at 0xab286098>, 1161030213125958: <Point object at 0xab286710>, 1161030213537800: <Point object at 0xab286248>}
+{116103021350748: <Point object at 0xab286098>, 1161030213125958: <Point object at 0xab286710>, 1161030213537800: <Point object at 0xab286248>, 1161030213645113: <Point object at 0xab286830>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab286248>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab286098>, <Point object at 0xab286248>, <Point object at 0xab286830>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286998>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab286a70>, <Point object at 0xab286878>, <Point object at 0xab286ab8>]}
+[3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3]
+3
+1
+1
+17
+[(46.17786110511483, -98.34947303191888), (39.22804433584866, -102.627518760536), (41.15624673615246, -96.424526968359), (44.36650744743032, -100.86667994333364), (46.166932895326454, -98.34509982380831), (37.99314824491806, -95.62132005676754), (43.944292903633425, -109.6874730317919), (38.730443912928244, -107.76252696823202), (39.747165676322005, -103.05962137398875), (42.839978508635355, -105.70532811951219), (42.30851607689932, -101.59303583863822)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72170>}
+{116103021350748: <Point object at 0xabc63d88>, 1161030213125958: <Point object at 0xabc72170>}
+{116103021350748: <Point object at 0xabc63d88>, 1161030213125958: <Point object at 0xabc72170>, 1161030213537800: <Point object at 0xabc63e18>}
+{116103021350748: <Point object at 0xabc63d88>, 1161030213125958: <Point object at 0xabc72170>, 1161030213537800: <Point object at 0xabc63e18>, 1161030213645113: <Point object at 0xabc63f80>}[01/Dec/2016 04:53:10] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+[01/Dec/2016 05:03:26] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:03:26] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:03:36] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:03:37] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 05:11:45] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:11:45] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:11:55] "GET /genericfault/?radius=3000000&network=TestNetwork HTTP/1.1" 200 329
+[01/Dec/2016 05:12:08] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 05:26:20] "GET /faultanalyzer HTTP/1.1" 200 17542
+
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc63e18>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc63d88>, <Point object at 0xabc63e18>, <Point object at 0xabc63f80>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc63cf8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc63cb0>, <Point object at 0xab2862d8>, <Point object at 0xab286d40>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72290>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc72290>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc72290>, 1161030213537800: <Point object at 0xabc723f8>}
+{116103021350748: <Point object at 0xabc72ab8>, 1161030213125958: <Point object at 0xabc72290>, 1161030213537800: <Point object at 0xabc723f8>, 1161030213645113: <Point object at 0xabc72710>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc723f8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc72ab8>, <Point object at 0xabc723f8>, <Point object at 0xabc72710>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286758>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab2862d8>, <Point object at 0xab286d40>, <Point object at 0xab286d88>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+3000000
+TestNetwork
+{1161027164655904: <Point object at 0xabc72ef0>}
+{1161027164655904: <Point object at 0xabc72ef0>, 116102716470207: <Point object at 0xabc72dd0>}
+{1161027164655904: <Point object at 0xabc72ef0>, 11610271647680: <Point object at 0xabc72170>, 116102716470207: <Point object at 0xabc72dd0>}
+{1161027164715618: <Point object at 0xabc72518>, 1161027164655904: <Point object at 0xabc72ef0>, 11610271647680: <Point object at 0xabc72170>, 116102716470207: <Point object at 0xabc72dd0>}
+{1161027164715618: <Point object at 0xabc72518>, 116102716472780: <Point object at 0xabc720e0>, 1161027164655904: <Point object at 0xabc72ef0>, 11610271647680: <Point object at 0xabc72170>, 116102716470207: <Point object at 0xabc72dd0>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc72dd0>, <Point object at 0xabc72170>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xabc720e0>, <Point object at 0xabc72518>], (39.5676, -100.6587): [<Point object at 0xabc72170>, <Point object at 0xabc72518>], (30.5676, -80.6587): [<Point object at 0xabc720e0>]}
+200000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc63dd0>, <Point object at 0xab283560>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xab283518>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc63e18>, <Point object at 0xabc63ef0>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc63ea8>, <Point object at 0xabc63cf8>]}
+[1, 1, 0, 2, 1, 1, 3, 2, 1, 1, 1, 1, 1, 3, 2, 1, 2, 2, 1, 2, 3, 3, 2, 2, 2, 2, 2, 3, 2, 1, 3, 2, 3, 1]
+3
+0
+0
+34
+[(50.48430168606196, -75.42322266719647), (56.17744045979215, -100.65869999988425), (35.888556288041656, -73.7092414762986), (15.853366321822385, -90.65870000017833), (54.96876411343846, -104.9316127468831), (50.48565837100513, -75.42280151004182), (52.17023944569183, -70.74301817751262)]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}][01/Dec/2016 05:26:21] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:26:25] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:26:30] "GET /genericfault/?radius=200000&network=Test%20Network%203 HTTP/1.1" 200 81
+[01/Dec/2016 05:26:36] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:26:36] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:26:42] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:26:43] "GET /genericfault/?radius=0&network=Test%20Network%203 HTTP/1.1" 200 122
+[01/Dec/2016 05:26:57] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:26:57] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:27:01] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:27:04] "GET /genericfault/?radius=0&network=Test%20Network%203 HTTP/1.1" 200 122
+
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+200000
+Test Network 3
+{1161030213125958: <Point object at 0xabc63d88>}
+{116103021350748: <Point object at 0xac4b4170>, 1161030213125958: <Point object at 0xabc63d88>}
+{116103021350748: <Point object at 0xac4b4170>, 1161030213125958: <Point object at 0xabc63d88>, 1161030213537800: <Point object at 0xab286878>}
+{116103021350748: <Point object at 0xac4b4170>, 1161030213125958: <Point object at 0xabc63d88>, 1161030213537800: <Point object at 0xab286878>, 1161030213645113: <Point object at 0xab286680>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab286878>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xac4b4170>, <Point object at 0xab286878>, <Point object at 0xab286680>], (36.334, -104.551): []}
+3000000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab2867a0>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab286950>, <Point object at 0xab2863b0>, <Point object at 0xab286c20>]}
+[3, 2, 3, 2, 3, 3, 3, 3, 4, 2, 3]
+4
+1
+1
+11
+[(42.45133481344704, -96.90576348424898)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+0
+Test Network 3
+{1161030213125958: <Point object at 0xabc72a28>}
+{116103021350748: <Point object at 0xabc63c68>, 1161030213125958: <Point object at 0xabc72a28>}
+{116103021350748: <Point object at 0xabc63c68>, 1161030213125958: <Point object at 0xabc72a28>, 1161030213537800: <Point object at 0xab286e18>}
+{116103021350748: <Point object at 0xabc63c68>, 1161030213125958: <Point object at 0xabc72a28>, 1161030213537800: <Point object at 0xab286e18>, 1161030213645113: <Point object at 0xab286950>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab286e18>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc63c68>, <Point object at 0xab286e18>, <Point object at 0xab286950>], (36.334, -104.551): []}
+200000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab2863b0>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab286c20>, <Point object at 0xab2867a0>, <Point object at 0xab286680>]}
+[3, 4, 3, 4]
+4
+1
+1
+4
+[(43.71999999998968, -97.38700000013895), (38.699000000037856, -99.10099999996224)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+0
+Test Network 3
+{1161030213125958: <Point object at 0xabc72680>}
+{116103021350748: <Point object at 0xab286c20>, 1161030213125958: <Point object at 0xabc72680>}
+{116103021350748: <Point object at 0xab286c20>, 1161030213125958: <Point object at 0xabc72680>, 1161030213537800: <Point object at 0xab286128>}
+{116103021350748: <Point object at 0xab286c20>, 1161030213125958: <Point object at 0xabc72680>, 1161030213537800: <Point object at 0xab286128>, 1161030213645113: <Point object at 0xab286878>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab286128>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab286c20>, <Point object at 0xab286128>, <Point object at 0xab286878>], (36.334, -104.551): []}
+0
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286ea8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab2868c0>, <Point object at 0xab286f80>, <Point object at 0xab286fc8>]}
+[3, 4, 3, 4]
+4
+1
+1
+4
+[(43.71999999998968, -97.38700000013895), (38.699000000037856, -99.10099999996224)]
+0
+Test Network 3
+{1161030213125958: <Point object at 0xabc72ef0>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72ef0>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72ef0>, 1161030213537800: <Point object at 0xabc72b00>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72ef0>, 1161030213537800: <Point object at 0xabc72b00>, 1161030213645113: <Point object at 0xabc72f80>}[01/Dec/2016 05:27:11] "GET /genericfault/?radius=0&network=Test%20Network%203 HTTP/1.1" 200 122
+[01/Dec/2016 05:27:15] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:27:15] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:27:24] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 05:27:27] "GET /genericfault/?radius=500000&network=TestNetwork HTTP/1.1" 200 245
+[01/Dec/2016 05:27:34] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:27:35] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:27:40] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:27:44] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72b00>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc729e0>, <Point object at 0xabc72b00>, <Point object at 0xabc72f80>], (36.334, -104.551): []}
+0
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xac4b41b8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72d88>, <Point object at 0xabc72950>, <Point object at 0xabc72d40>]}
+[3, 4, 3, 4]
+4
+1
+1
+4
+[(43.71999999998968, -97.38700000013895), (38.699000000037856, -99.10099999996224)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+TestNetwork
+{1161027164655904: <Point object at 0xab286290>}
+{1161027164655904: <Point object at 0xab286290>, 116102716470207: <Point object at 0xabc72cf8>}
+{1161027164655904: <Point object at 0xab286290>, 11610271647680: <Point object at 0xabc72d88>, 116102716470207: <Point object at 0xabc72cf8>}
+{1161027164715618: <Point object at 0xabc72950>, 1161027164655904: <Point object at 0xab286290>, 11610271647680: <Point object at 0xabc72d88>, 116102716470207: <Point object at 0xabc72cf8>}
+{1161027164715618: <Point object at 0xabc72950>, 116102716472780: <Point object at 0xabc72d40>, 1161027164655904: <Point object at 0xab286290>, 11610271647680: <Point object at 0xabc72d88>, 116102716470207: <Point object at 0xabc72cf8>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc72cf8>, <Point object at 0xabc72d88>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xabc72d40>, <Point object at 0xabc72950>], (39.5676, -100.6587): [<Point object at 0xabc72d88>, <Point object at 0xabc72950>], (30.5676, -80.6587): [<Point object at 0xabc72d40>]}
+0
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc72cb0>, <Point object at 0xabc721b8>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc72758>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc72b90>, <Point object at 0xabc72e18>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc72440>, <Point object at 0xabc72128>]}
+[2, 3, 1, 1, 5, 3, 1, 5, 1, 3, 2, 2, 1, 3, 2, 3, 4, 1, 1, 1, 3, 5, 2, 3, 3, 5, 1, 4, 3, 5, 2, 1, 3, 3, 3]
+5
+1
+1
+35
+[(36.473366443548514, -93.16985931475983), (36.9513125350775, -96.16712357928662), (36.00421248996808, -92.64189419579297), (36.00421248996808, -96.16712357928662), (36.00421248996808, -90.65870000017833)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xabc72e18>}
+{116103021350748: <Point object at 0xabc727e8>, 1161030213125958: <Point object at 0xabc72e18>}
+{116103021350748: <Point object at 0xabc727e8>, 1161030213125958: <Point object at 0xabc72e18>, 1161030213537800: <Point object at 0xabc726c8>}
+{116103021350748: <Point object at 0xabc727e8>, 1161030213125958: <Point object at 0xabc72e18>, 1161030213537800: <Point object at 0xabc726c8>, 1161030213645113: <Point object at 0xab286bd8>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc726c8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc727e8>, <Point object at 0xabc726c8>, <Point object at 0xab286bd8>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286290>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab286998>, <Point object at 0xab286488>, <Point object at 0xab286908>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xabc63cb0>}
+{116103021350748: <Point object at 0xabc72b48>, 1161030213125958: <Point object at 0xabc63cb0>}
+{116103021350748: <Point object at 0xabc72b48>, 1161030213125958: <Point object at 0xabc63cb0>, 1161030213537800: <Point object at 0xabc72a70>}
+{116103021350748: <Point object at 0xabc72b48>, 1161030213125958: <Point object at 0xabc63cb0>, 1161030213537800: <Point object at 0xabc72a70>, 1161030213645113: <Point object at 0xabc72bd8>}
+116103021350748
+1161030213537800
+1161030213645113[01/Dec/2016 05:29:06] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+[01/Dec/2016 05:29:07] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:29:08] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:29:15] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:29:17] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+[01/Dec/2016 05:30:09] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:30:10] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:30:43] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:30:45] "GET /genericfault/?radius=700000&network=Test%20Network%203 HTTP/1.1" 200 334
+[01/Dec/2016 05:30:56] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:30:57] "GET /fetchgraphname/ HTTP/1.1" 200 586
+
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72a70>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc72b48>, <Point object at 0xabc72a70>, <Point object at 0xabc72bd8>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc720e0>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc72950>, <Point object at 0xabc72998>, <Point object at 0xabc72878>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xab2869e0>}
+{116103021350748: <Point object at 0xab286830>, 1161030213125958: <Point object at 0xab2869e0>}
+{116103021350748: <Point object at 0xab286830>, 1161030213125958: <Point object at 0xab2869e0>, 1161030213537800: <Point object at 0xab286dd0>}
+{116103021350748: <Point object at 0xab286830>, 1161030213125958: <Point object at 0xab2869e0>, 1161030213537800: <Point object at 0xab286dd0>, 1161030213645113: <Point object at 0xabc72c20>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab286dd0>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab286830>, <Point object at 0xab286dd0>, <Point object at 0xabc72c20>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc72638>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc725f0>, <Point object at 0xabc72710>, <Point object at 0xabc72a28>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+700000
+Test Network 3
+{1161030213125958: <Point object at 0xab290488>}
+{116103021350748: <Point object at 0xab2903b0>, 1161030213125958: <Point object at 0xab290488>}
+{116103021350748: <Point object at 0xab2903b0>, 1161030213125958: <Point object at 0xab290488>, 1161030213537800: <Point object at 0xab290878>}
+{116103021350748: <Point object at 0xab2903b0>, 1161030213125958: <Point object at 0xab290488>, 1161030213537800: <Point object at 0xab290878>, 1161030213645113: <Point object at 0xab290d40>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab290878>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab2903b0>, <Point object at 0xab290878>, <Point object at 0xab290d40>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab286ab8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab2866c8>, <Point object at 0xab286638>, <Point object at 0xab2865f0>]}
+[2, 3, 2, 2, 2, 3, 1, 3, 3, 1, 3, 3, 2, 2, 2, 2, 2, 3]
+3
+1
+1
+18
+[(42.571526453403834, -91.29756009909909), (44.846725170038326, -103.47643990117881), (37.45921868356007, -93.01156009892236), (39.16434565714992, -95.70267219497323), (33.527640305193025, -109.83542579085172), (44.74140315859046, -102.90219977535294), (44.84235193598904, -103.45257499682947)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}][01/Dec/2016 05:31:00] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:31:06] "GET /genericfault/?radius=700000&network=Test%20Network%203 HTTP/1.1" 200 334
+[01/Dec/2016 05:33:34] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 05:33:37] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:33:37] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:33:39] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 05:33:45] "GET /genericfault/?radius=800000&network=TestNetwork HTTP/1.1" 200 81
+
+700000
+Test Network 3
+{1161030213125958: <Point object at 0xab280d88>}
+{116103021350748: <Point object at 0xab280e18>, 1161030213125958: <Point object at 0xab280d88>}
+{116103021350748: <Point object at 0xab280e18>, 1161030213125958: <Point object at 0xab280d88>, 1161030213537800: <Point object at 0xab280b90>}
+{116103021350748: <Point object at 0xab280e18>, 1161030213125958: <Point object at 0xab280d88>, 1161030213537800: <Point object at 0xab280b90>, 1161030213645113: <Point object at 0xab280dd0>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab280b90>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab280e18>, <Point object at 0xab280b90>, <Point object at 0xab280dd0>], (36.334, -104.551): []}
+700000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc72908>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc725f0>, <Point object at 0xabc72710>, <Point object at 0xabc72a28>]}
+[2, 3, 2, 2, 2, 3, 1, 3, 3, 1, 3, 3, 2, 2, 2, 2, 2, 3]
+3
+1
+1
+18
+[(42.571526453403834, -91.29756009909909), (44.846725170038326, -103.47643990117881), (37.45921868356007, -93.01156009892236), (39.16434565714992, -95.70267219497323), (33.527640305193025, -109.83542579085172), (44.74140315859046, -102.90219977535294), (44.84235193598904, -103.45257499682947)]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+800000
+TestNetwork
+{1161027164655904: <Point object at 0xab286ef0>}
+{1161027164655904: <Point object at 0xab286ef0>, 116102716470207: <Point object at 0xab286050>}
+{1161027164655904: <Point object at 0xab286ef0>, 11610271647680: <Point object at 0xab286bd8>, 116102716470207: <Point object at 0xab286050>}
+{1161027164715618: <Point object at 0xab286b00>, 1161027164655904: <Point object at 0xab286ef0>, 11610271647680: <Point object at 0xab286bd8>, 116102716470207: <Point object at 0xab286050>}
+{1161027164715618: <Point object at 0xab286b00>, 116102716472780: <Point object at 0xab2862d8>, 1161027164655904: <Point object at 0xab286ef0>, 11610271647680: <Point object at 0xab286bd8>, 116102716470207: <Point object at 0xab286050>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xab286050>, <Point object at 0xab286bd8>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xab2862d8>, <Point object at 0xab286b00>], (39.5676, -100.6587): [<Point object at 0xab286bd8>, <Point object at 0xab286b00>], (30.5676, -80.6587): [<Point object at 0xab2862d8>]}
+700000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xab2867e8>, <Point object at 0xab286248>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xab286950>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab2861b8>, <Point object at 0xab286f80>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xab286170>, <Point object at 0xab286098>]}
+[3, 3, 2, 3, 1, 1, 2, 1, 4, 3, 2, 1, 2, 3, 1, 3, 1, 3, 2, 4, 1, 1, 2, 2, 4, 1, 3, 4, 3, 4, 3, 1, 2, 3, 2, 5, 2, 3, 1, 2, 3, 3, 2]
+5
+1
+1
+43
+[(33.78404357694188, -90.65870000017833)]
+500000
+TestNetwork
+{1161027164655904: <Point object at 0xabc63fc8>}
+{1161027164655904: <Point object at 0xabc63fc8>, 116102716470207: <Point object at 0xabc72b90>}
+{1161027164655904: <Point object at 0xabc63fc8>, 11610271647680: <Point object at 0xabc72ab8>, 116102716470207: <Point object at 0xabc72b90>}
+{1161027164715618: <Point object at 0xabc723b0>, 1161027164655904: <Point object at 0xabc63fc8>, 11610271647680: <Point object at 0xabc72ab8>, 116102716470207: <Point object at 0xabc72b90>}
+{1161027164715618: <Point object at 0xabc723b0>, 116102716472780: <Point object at 0xabc72440>, 1161027164655904: <Point object at 0xabc63fc8>, 11610271647680: <Point object at 0xabc72ab8>, 116102716470207: <Point object at 0xabc72b90>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xabc72b90>, <Point object at 0xabc72ab8>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xabc72440>, <Point object at 0xabc723b0>], (39.5676, -100.6587): [<Point object at 0xabc72ab8>, <Point object at 0xabc723b0>], (30.5676, -80.6587): [<Point object at 0xabc72440>]}
+800000
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc72050>, <Point object at 0xabc72f38>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc72368>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xabc72560>, <Point object at 0xabc72a70>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc723f8>, <Point object at 0xabc72d40>]}
+[2, 3, 1, 1, 5, 3, 1, 5, 1, 3, 2, 2, 1, 3, 2, 3, 4, 1, 1, 1, 3, 5, 2, 3, 3, 5, 1, 4, 3, 5, 2, 1, 3, 3, 3][01/Dec/2016 05:34:04] "GET /genericfault/?radius=500000&network=TestNetwork HTTP/1.1" 200 245
+[01/Dec/2016 05:34:08] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:34:08] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:34:10] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+[01/Dec/2016 05:34:15] "GET /genericfault/?radius=500000&network=TestNetwork2 HTTP/1.1" 200 166
+[01/Dec/2016 05:34:56] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:34:57] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:34:58] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:35:02] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:35:04] "GET /genericfault/?radius=0&network=Test%20Network%203 HTTP/1.1" 200 122
+[01/Dec/2016 05:37:29] "GET /faultanalyzer HTTP/1.1" 200 17542
+
+5
+1
+1
+35
+[(36.473366443548514, -93.16985931475983), (36.9513125350775, -96.16712357928662), (36.00421248996808, -92.64189419579297), (36.00421248996808, -96.16712357928662), (36.00421248996808, -90.65870000017833)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+TestNetwork2
+{1161028212245956: <Point object at 0xab280fc8>}
+{1161028212245956: <Point object at 0xab280fc8>, 1161028212252898: <Point object at 0xab286ab8>}
+{116102821234328: <Point object at 0xab286c68>, 1161028212245956: <Point object at 0xab280fc8>, 1161028212252898: <Point object at 0xab286ab8>}
+{116102821234328: <Point object at 0xab286c68>, 1161028212245956: <Point object at 0xab280fc8>, 1161028212314156: <Point object at 0xab2863f8>, 1161028212252898: <Point object at 0xab286ab8>}
+{116102821234328: <Point object at 0xab286c68>, 1161028212245956: <Point object at 0xab280fc8>, 1161028212332580: <Point object at 0xab286f80>, 1161028212314156: <Point object at 0xab2863f8>, 1161028212252898: <Point object at 0xab286ab8>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xab286f80>], (34.5676, -100.6587): [<Point object at 0xab286ab8>, <Point object at 0xab2863f8>], (34.5676, -110.6587): [<Point object at 0xab286c68>, <Point object at 0xab286f80>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xab2863f8>]}
+500000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xab286a28>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab286950>, <Point object at 0xab286368>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xab286ef0>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xab2867e8>, <Point object at 0xab286248>]}
+[4, 4, 3, 3, 5, 2, 4, 2, 2, 3, 3, 3, 2, 2, 3, 3, 2, 2, 2, 2, 3, 2, 4, 5, 5]
+5
+1
+1
+25
+[(31.635551224463875, -107.435736027663), (30.76978411912819, -110.65869999959018), (31.102025830360848, -108.83830090635028)]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+0
+Test Network 3
+{1161030213125958: <Point object at 0xabc72d88>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72d88>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72d88>, 1161030213537800: <Point object at 0xabc72878>}
+{116103021350748: <Point object at 0xabc729e0>, 1161030213125958: <Point object at 0xabc72d88>, 1161030213537800: <Point object at 0xabc72878>, 1161030213645113: <Point object at 0xabc72fc8>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72878>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xabc729e0>, <Point object at 0xabc72878>, <Point object at 0xabc72fc8>], (36.334, -104.551): []}
+500000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc72bd8>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc721b8>, <Point object at 0xabc720e0>, <Point object at 0xabc72c20>]}
+[3, 4, 3, 4]
+4
+1
+1
+4
+[(43.71999999998968, -97.38700000013895), (38.699000000037856, -99.10099999996224)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}][01/Dec/2016 05:37:29] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:37:34] "GET /genericfault/?radius=0&network=TestNetwork HTTP/1.1" 200 164
+[01/Dec/2016 05:37:42] "GET /loadnetwork/?name=TestNetwork HTTP/1.1" 200 1338
+[01/Dec/2016 05:37:56] "GET /genericfault/?radius=400000&network=TestNetwork HTTP/1.1" 200 163
+[01/Dec/2016 05:38:02] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:38:02] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:38:06] "GET /loadnetwork/?name=TestNetwork2 HTTP/1.1" 200 1326
+
+0
+TestNetwork
+{1161027164655904: <Point object at 0xab280fc8>}
+{1161027164655904: <Point object at 0xab280fc8>, 116102716470207: <Point object at 0xab2807a0>}
+{1161027164655904: <Point object at 0xab280fc8>, 11610271647680: <Point object at 0xab280908>, 116102716470207: <Point object at 0xab2807a0>}
+{1161027164715618: <Point object at 0xab280bd8>, 1161027164655904: <Point object at 0xab280fc8>, 11610271647680: <Point object at 0xab280908>, 116102716470207: <Point object at 0xab2807a0>}
+{1161027164715618: <Point object at 0xab280bd8>, 116102716472780: <Point object at 0xab280290>, 1161027164655904: <Point object at 0xab280fc8>, 11610271647680: <Point object at 0xab280908>, 116102716470207: <Point object at 0xab2807a0>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xab2807a0>, <Point object at 0xab280908>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xab280290>, <Point object at 0xab280bd8>], (39.5676, -100.6587): [<Point object at 0xab280908>, <Point object at 0xab280bd8>], (30.5676, -80.6587): [<Point object at 0xab280290>]}
+0
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xabc721b8>, <Point object at 0xabc720e0>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xabc72c20>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab280e18>, <Point object at 0xab280f38>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xabc72908>, <Point object at 0xabc727e8>]}
+[3, 4, 3, 3, 3, 4, 4, 3]
+4
+1
+2
+8
+[(30.567600000222736, -80.65869999957407), (39.56759999983317, -90.65870000017833), (39.56759999983317, -100.65869999988425)]
+[{"model": "networkeditor.networkconn", "pk": 1, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164655904, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716470207\", \"11610271647680\"]"}}, {"model": "networkeditor.networkconn", "pk": 2, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716470207, "Lat": 39.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"11610271647680\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 3, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 11610271647680, "Lat": 39.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\", \"1161027164715618\"]"}}, {"model": "networkeditor.networkconn", "pk": 4, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 1161027164715618, "Lat": 30.5676, "Long": -80.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102716472780\"]"}}, {"model": "networkeditor.networkconn", "pk": 5, "fields": {"networkid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "LatLongId": 116102716472780, "Lat": 35.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+TestNetwork
+{1161027164655904: <Point object at 0xabc63c68>}
+{1161027164655904: <Point object at 0xabc63c68>, 116102716470207: <Point object at 0xab2866c8>}
+{1161027164655904: <Point object at 0xabc63c68>, 11610271647680: <Point object at 0xab286758>, 116102716470207: <Point object at 0xab2866c8>}
+{1161027164715618: <Point object at 0xab286248>, 1161027164655904: <Point object at 0xabc63c68>, 11610271647680: <Point object at 0xab286758>, 116102716470207: <Point object at 0xab2866c8>}
+{1161027164715618: <Point object at 0xab286248>, 116102716472780: <Point object at 0xab286878>, 1161027164655904: <Point object at 0xabc63c68>, 11610271647680: <Point object at 0xab286758>, 116102716470207: <Point object at 0xab2866c8>}
+116102716470207
+11610271647680
+11610271647680
+1161027164715618
+116102716472780
+1161027164715618
+116102716472780
+{(34.5676, -100.6587): [<Point object at 0xab2866c8>, <Point object at 0xab286758>], (35.5676, -110.6587): [], (39.5676, -90.6587): [<Point object at 0xab286878>, <Point object at 0xab286248>], (39.5676, -100.6587): [<Point object at 0xab286758>, <Point object at 0xab286248>], (30.5676, -80.6587): [<Point object at 0xab286878>]}
+0
+{(-12318470.135845622, 4216431.3232780695): [], (-11205275.227912886, 4776082.036317113): [<Point object at 0xab280290>, <Point object at 0xab280908>], (-8978885.412047414, 3554993.5367581174): [<Point object at 0xab280bd8>], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab2868c0>, <Point object at 0xab280878>], (-10092080.31998015, 4776082.036317113): [<Point object at 0xab280e18>, <Point object at 0xab280f38>]}
+[1, 1, 1, 2, 3, 3, 1, 5, 3, 5, 3, 3, 3, 3, 2, 2, 1, 2, 3, 1, 3, 1, 5, 3, 1, 3, 3, 1, 2, 1, 2, 3, 3, 3, 2, 3, 3, 1]
+5
+1
+1
+38
+[(36.73071422836519, -97.06543886340616), (36.73071422836519, -92.24525535667003), (36.73071422836519, -90.65870000017833)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 6, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212245956, "Lat": 34.5676, "Long": -100.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212252898\", \"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 7, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212252898, "Lat": 34.5676, "Long": -110.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116102821234328\", \"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 8, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 116102821234328, "Lat": 41.5676, "Long": -90.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212314156\"]"}}, {"model": "networkeditor.networkconn", "pk": 9, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212314156, "Lat": 30.5676, "Long": -99.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161028212332580\"]"}}, {"model": "networkeditor.networkconn", "pk": 10, "fields": {"networkid": "c8297281-19bb-4f58-a763-26b8b092498b", "LatLongId": 1161028212332580, "Lat": 26.5676, "Long": -115.6587, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+TestNetwork2
+{1161028212245956: <Point object at 0xabc72368>}
+{1161028212245956: <Point object at 0xabc72368>, 1161028212252898: <Point object at 0xab2866c8>}
+{116102821234328: <Point object at 0xab286950>, 1161028212245956: <Point object at 0xabc72368>, 1161028212252898: <Point object at 0xab2866c8>}
+{116102821234328: <Point object at 0xab286950>, 1161028212245956: <Point object at 0xabc72368>, 1161028212314156: <Point object at 0xab286a70>, 1161028212252898: <Point object at 0xab2866c8>}
+{116102821234328: <Point object at 0xab286950>, 1161028212245956: <Point object at 0xabc72368>, 1161028212332580: <Point object at 0xab286368>, 1161028212314156: <Point object at 0xab286a70>, 1161028212252898: <Point object at 0xab2866c8>}
+1161028212252898
+1161028212314156
+116102821234328
+1161028212332580
+1161028212314156
+1161028212332580
+{(30.5676, -99.6587): [<Point object at 0xab286368>], (34.5676, -100.6587): [<Point object at 0xab2866c8>, <Point object at 0xab286a70>], (34.5676, -110.6587): [<Point object at 0xab286950>, <Point object at 0xab286368>], (26.5676, -115.6587): [], (41.5676, -90.6587): [<Point object at 0xab286a70>]}
+400000
+{(-11093955.737119611, 3554993.5367581174): [<Point object at 0xab2861b8>], (-12875067.58981199, 3050446.9639518545): [], (-11205275.227912886, 4081030.716715239): [<Point object at 0xab286dd0>, <Point object at 0xab286098>], (-10092080.31998015, 5068068.562037175): [<Point object at 0xab2867a0>], (-12318470.135845622, 4081030.716715239): [<Point object at 0xab286ab8>, <Point object at 0xab286998>]}[01/Dec/2016 05:38:11] "GET /genericfault/?radius=400000&network=TestNetwork2 HTTP/1.1" 200 82
+[01/Dec/2016 05:38:24] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:38:24] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:38:29] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 05:38:34] "GET /genericfault/?radius=400000&network=Test%20Network%203 HTTP/1.1" 200 498
+[01/Dec/2016 05:46:17] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 05:46:18] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 05:50:47] "GET /loadnetwork/?name=Test%20Network%203 HTTP/1.1" 200 1038
+[01/Dec/2016 06:01:09] "GET /genericfault/?radius=500000&network=Test%20Network%203 HTTP/1.1" 200 376
+
+[4, 2, 2, 3, 2, 5, 2, 3, 2, 2, 4, 4, 2, 3, 3, 3, 4, 2, 3, 4, 3, 2, 2, 2, 4]
+5
+1
+1
+25
+[(31.542311596947584, -103.5711352867297)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+400000
+Test Network 3
+{1161030213125958: <Point object at 0xab280878>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab280878>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab280878>, 1161030213537800: <Point object at 0xabc72170>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab280878>, 1161030213537800: <Point object at 0xabc72170>, 1161030213645113: <Point object at 0xabc72950>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xabc72170>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab280710>, <Point object at 0xabc72170>, <Point object at 0xabc72950>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xabc72200>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xabc723f8>, <Point object at 0xabc72290>, <Point object at 0xabc72320>]}
+[3, 3, 3, 3, 2, 2, 2, 3, 3, 2, 3, 3, 2, 3, 2, 3, 3]
+3
+1
+1
+17
+[(46.17786110511483, -98.34947303191888), (39.22804433584866, -102.627518760536), (41.15624673615246, -96.424526968359), (44.36650744743032, -100.86667994333364), (46.166932895326454, -98.34509982380831), (37.99314824491806, -95.62132005676754), (43.944292903633425, -109.6874730317919), (38.730443912928244, -107.76252696823202), (39.747165676322005, -103.05962137398875), (42.839978508635355, -105.70532811951219), (42.30851607689932, -101.59303583863822)]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.networkconn", "pk": 11, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213125958, "Lat": 41.39, "Long": -108.725, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"116103021350748\", \"1161030213537800\", \"1161030213645113\"]"}}, {"model": "networkeditor.networkconn", "pk": 12, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 116103021350748, "Lat": 38.699, "Long": -99.101, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[\"1161030213537800\"]"}}, {"model": "networkeditor.networkconn", "pk": 13, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213537800, "Lat": 43.72, "Long": -97.387, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}, {"model": "networkeditor.networkconn", "pk": 14, "fields": {"networkid": "e1c67725-1113-4b77-8d2f-d99e21916395", "LatLongId": 1161030213645113, "Lat": 36.334, "Long": -104.551, "LatLongx": null, "LatLongy": null, "ConnectedPoints": "[]"}}]
+500000
+Test Network 3
+{1161030213125958: <Point object at 0xab2869e0>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab2869e0>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab2869e0>, 1161030213537800: <Point object at 0xab280ab8>}
+{116103021350748: <Point object at 0xab280710>, 1161030213125958: <Point object at 0xab2869e0>, 1161030213537800: <Point object at 0xab280ab8>, 1161030213645113: <Point object at 0xab280c68>}
+116103021350748
+1161030213537800
+1161030213645113
+1161030213537800
+{(38.699, -99.101): [<Point object at 0xab280ab8>], (43.72, -97.387): [], (41.39, -108.725): [<Point object at 0xab280710>, <Point object at 0xab280ab8>, <Point object at 0xab280c68>], (36.334, -104.551): []}
+400000
+{(-11031872.857104205, 4651928.01078717): [<Point object at 0xab280320>], (-11638564.081927545, 4321359.271526416): [], (-10841071.249884533, 5392671.930897112): [], (-12103211.636498667, 5041779.410362349): [<Point object at 0xab280908>, <Point object at 0xab280098>, <Point object at 0xab280c20>]}
+[3, 3, 2, 2, 2, 2, 3, 3, 2, 3, 2, 1, 2, 3, 3, 3, 2]
+3
+1
+1
+17
+[(44.52388303039988, -101.71955356971692), (44.49003661978528, -107.18908271291698), (37.81560312103096, -94.75140007051971), (39.186410280656666, -101.52405280480222), (42.90187902296863, -93.03740007069642), (39.267953190011994, -101.93107402163605), (40.68181048041553, -102.77700632629308), (43.19724582609745, -104.95041014961183)]
+[01/Dec/2016 06:03:50] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 06:03:50] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:03:52] "GET /faultanalyzer HTTP/1.1" 200 17542
+[01/Dec/2016 06:03:52] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:03:58] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:03:58] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:04:33] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:04:33] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:04:36] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:04:36] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:04:38] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:04:38] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:04:40] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:04:40] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:04:44] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:04:44] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:07:37] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:07:38] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:04] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:04] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:07] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:08] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:48] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:48] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:48] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:49] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:51] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:51] "GET / HTTP/1.1" 200 24677
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 01, 2016 - 06:02:36
+Django version 1.10.2, using settings 'nsrpt.settings'
+Starting development server at http://10.218.105.80:8000/
+Quit the server with CONTROL-C.
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}]
+Hello
+Hello
+[{"model": "networkeditor.graphdata", "pk": 1, "fields": {"graphname": "TestNetwork", "graphid": "11254471-149e-44c1-a6f4-0e066d21d8bb", "datestamp": "2016-11-27", "timestamp": "23:48:46.017"}}, {"model": "networkeditor.graphdata", "pk": 2, "fields": {"graphname": "TestNetwork2", "graphid": "c8297281-19bb-4f58-a763-26b8b092498b", "datestamp": "2016-11-29", "timestamp": "04:24:44.626"}}, {"model": "networkeditor.graphdata", "pk": 3, "fields": {"graphname": "Test Network 3", "graphid": "e1c67725-1113-4b77-8d2f-d99e21916395", "datestamp": "2016-12-01", "timestamp": "04:37:14.433"}}][01/Dec/2016 06:09:51] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:52] "GET /fetchgraphname/ HTTP/1.1" 200 586
+[01/Dec/2016 06:09:59] "GET / HTTP/1.1" 200 24677
+[01/Dec/2016 06:09:59] "GET /fetchgraphname/ HTTP/1.1" 200 586
